@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.aviator.kilnexc">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.aviator.aviatorjknqwex">
   <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -17,10 +17,10 @@
       </intent-filter>
       <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
     </activity>
-    <meta-data android:name="ymp_firebase_default_app_id" android:value="1:778057921335:android:2f2b1cd7e20b98723220b2" />
-    <meta-data android:name="ymp_gcm_default_sender_id" android:value="number:778057921335" />
-    <meta-data android:name="ymp_firebase_default_api_key" android:value="AIzaSyAcXIsO4TFiuFCXWPOgverSJYZ7wuNeAhg" />
-    <meta-data android:name="ymp_firebase_default_project_id" android:value="aviarotbrentrintracewin" />
-    <meta-data android:name="io.branch.sdk.BranchKey" android:value="key_live_mgW16GVYfDELgpUd4Fp6qpefqEi1LpcX" />
+    <meta-data android:name="ymp_firebase_default_app_id" android:value="1:294694532144:android:3d52506f4e14a2c8d4a9f5" />
+    <meta-data android:name="ymp_gcm_default_sender_id" android:value="number:294694532144" />
+    <meta-data android:name="ymp_firebase_default_api_key" android:value="AIzaSyD5vtFQmSx_1jj9BhT3qY-l92Hudmebwbw" />
+    <meta-data android:name="ymp_firebase_default_project_id" android:value="avx1b-2712n" />
+    <meta-data android:name="io.branch.sdk.BranchKey" android:value="key_live_ke04XSM3bDrYFw6k9Y8iHimkBvahS3qV" />
   </application>
 </manifest>
